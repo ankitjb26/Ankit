@@ -18,7 +18,7 @@ I am a professional data engineer with 1 year of experience in the field. My exp
 ## Contact
 
 If you have any inquiries or would like to connect, you can reach me via:
-- Email: [My mail Id](ankitbaviskar3@gmail.com)
+- Email: [My Mail-Id](mailto:ankitbaviskar3@gmail.com)
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/ankit-baviskar-b0a2051a4)
 
 Thank you for visiting!
